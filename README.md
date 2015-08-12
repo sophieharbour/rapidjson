@@ -1,3 +1,4 @@
+Rehosting an older branch of GitHub.  The README below comes from a rehost https://github.com/pah/rapidjson
 Yet another Rapidjson GitHub mirror
 ===================================
 
